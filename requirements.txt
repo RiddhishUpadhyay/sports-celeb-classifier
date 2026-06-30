@@ -3,7 +3,7 @@ uvicorn==0.49.0
 
 streamlit
 
-opencv-python==4.13.0.92
+opencv-python-headless==4.13.0.92
 numpy
 pandas
 Pillow
