@@ -30,7 +30,9 @@ The application supports multiple faces in a single image, displays confidence s
 # Demo
 
 ![](assets/img1.png)
+
 ![](assets/img2.png)
+
 ![](assets/img3.png)
 
 ---
